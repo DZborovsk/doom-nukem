@@ -1,0 +1,126 @@
+vertex 50  200  200  200  200  250  200  250  250  270  270  300  300  330  330  330  
+vertex 100  200  200  170  200  170  200  170  230  200  230  230  250  230  250  250  250  300  250  300  300  300  300  300  
+vertex 120  150  150  150  
+vertex 130  100  100  100  
+vertex 150  100  100  150  100  150  150  180  180  150  180  150  100  100  50  50  100  50  50  50  180  180  180  200  180  200  180  180  330  330  270  270  330  270  270  270  
+vertex 170  130  130  130  130  130  130  
+vertex 200  100  150  100  100  150  150  150  100  100  50  50  100  50  100  150  150  200  200  150  200  200  300  300  250  250  300  250  
+vertex 220  100  100  150  100  150  150  
+vertex 250  220  190  220  180  190  220  100  180  70  100  
+vertex 270  190  190  100  190  100  100  
+
+sector  6  99      85  79  86  85      -1 1 3 11 
+sector  10  99      79  85  44  79      3 0 8 2 
+sector  14  99      44  46  79  44      -1 6 3 1 
+sector  32  99      79  46  86  79      1 2 4 0 
+sector  27  99      86  46  50  86      -1 3 5 13 
+sector  22  99      50  46  38  50      13 4 6 -1 
+sector  18  99      38  46  44  41  38      -1 5 2 7 -1 
+sector  75  99      41  44  57  41      -1 6 8 -1 
+sector  80  99      57  44  85  57      9 7 1 9 
+sector  80  99      57  85  94  57      8 8 10 -1 
+sector  75  99      94  85  112  94      -1 9 11 -1 
+sector  70  99      112  85  86  114  112      -1 10 0 12 -1 
+sector  65  99      114  86  101  114      -1 11 13 -1 
+sector  60  99      50  101  86  50      5 14 12 4 
+sector  55  99      101  50  66  101      -1 13 15 -1 
+sector  50  99      50  15  66  50      5 16 -1 14 
+sector  45  99      15  50  17  15      -1 15 -1 17 
+sector  40  99      17  0  15  17      -1 -1 18 16 
+sector  35  99      0  22  15  0      19 19 -1 17 
+sector  35  99      0  4  22  0      18 -1 20 18 
+sector  30  99      22  4  26  22      -1 19 21 -1 
+sector  25  99      26  4  8  26      22 20 -1 22 
+sector  20  99      26  8  10  31  26      21 21 -1 23 -1 
+sector  24  99      31  10  12  31      25 22 -1 24 
+sector  28  99      12  71  31  12      -1 -1 25 23 
+sector  25  99      31  71  73  31      23 24 26 -1 
+sector  28  99      73  71  106  73      27 25 -1 27 
+sector  30  99      73  106  108  73      26 26 28 -1 
+sector  26  99      108  106  118  119  108      -1 27 -1 29 -1 
+sector  30  99      118  128  121  119  118      -1 -1 30 -1 28 
+sector  34  99      128  130  124  121  128      -1 -1 31 -1 29 
+sector  80  99      130  126  124  130      -1 -1 -1 30 
+
+
+player 125  187  2  0  
+end 31  
+door_sector 21  
+lift 1  
+lift 30  
+door_sector 12  
+ammunition 1 137  138  6  
+ammunition 1 189  87  17  
+ammunition 1 309  160  26  
+key 3 143  168  3  
+key 1 88  141  7  
+ammunition 1 87  166  8  
+ammunition 2 184  115  16  
+ammunition 2 162  144  5  
+ammunition 2 305  132  25  
+ammunition 3 208  84  18  
+ammunition 3 85  207  10  
+enemy 109  137  6  
+enemy 90  140  7  
+enemy 140  129  6  
+enemy 129  141  6  
+enemy 273  83  22  
+enemy 282  60  22  
+enemy 290  75  22  
+enemy 273  68  22  
+enemy 312  59  23  
+enemy 317  86  24  
+enemy 309  139  25  
+enemy 288  134  25  
+enemy 287  154  25  
+enemy 311  166  26  
+enemy 274  163  27  
+enemy 280  188  27  
+enemy 263  185  27  
+enemy 191  145  15  
+enemy 173  195  13  
+enemy 177  176  13  
+enemy 136  209  11  
+ammunition 2 115  211  11  
+ammunition 2 228  65  19  
+ammunition 2 290  89  22  
+ammunition 1 327  75  24  
+enemy 260  213  28  
+ammunition 2 242  222  28  
+enemy 228  227  28  
+enemy 209  244  28  
+enemy 117  257  30  
+enemy 163  256  30  
+enemy 71  183  9  
+texture_sector 0  0  
+texture_sector 1  2  
+texture_sector 2  4  
+texture_sector 3  2  
+texture_sector 4  0  
+texture_sector 5  0  
+texture_sector 6  4  
+texture_sector 7  4  
+texture_sector 8  4  
+texture_sector 9  4  
+texture_sector 10  4  
+texture_sector 11  4  
+texture_sector 12  4  
+texture_sector 13  4  
+texture_sector 14  4  
+texture_sector 15  4  
+texture_sector 16  2  
+texture_sector 17  2  
+texture_sector 18  1  
+texture_sector 19  0  
+texture_sector 20  1  
+texture_sector 21  1  
+texture_sector 22  0  
+texture_sector 23  2  
+texture_sector 24  2  
+texture_sector 25  4  
+texture_sector 26  4  
+texture_sector 27  4  
+texture_sector 28  4  
+texture_sector 29  4  
+texture_sector 30  4  
+texture_sector 31  6  
