@@ -5,6 +5,7 @@ Load screen:
 ![alt text](https://github.com/DZborovsk/backup/blob/master/img/doom_load.png)
 
 Features that are included:
+
 • You can move through the universe in real time via the keyboard arrows, just like
 in the two original games. 360-degree rotation, forward and back move.
 
