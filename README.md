@@ -1,8 +1,13 @@
 # doom-nukem
 You must create the "realistic" 3D graphic representation that you would have from a subjective view within your universe. You must use the Ray-Casting method for this representation. No hardware acceleration and no 3D library are allowed.
 
-Load screen:
 ![alt text](https://github.com/DZborovsk/backup/blob/master/img/doom_load.png)
+
+![alt text](https://github.com/DZborovsk/backup/blob/master/img/doom2.png)
+
+![alt text](https://github.com/DZborovsk/backup/blob/master/img/doom3.png)
+
+
 
 Features that are included:
 
